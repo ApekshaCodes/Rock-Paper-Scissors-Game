@@ -236,4 +236,4 @@ if __name__ == '__main__':
         # Other wrong input
         else:
             clear()
-            print("Wrong choice. Read instructions carefully.")
+            print("Wrong choice. Read instructions carefully!")
